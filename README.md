@@ -3,3 +3,5 @@
 ### Restart nginx: `sudo nginx -s reload`
 
 ### Restart servers: `./forever.sh`
+
+### Update ssl settings: `sudo certbot --nginx`
